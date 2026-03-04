@@ -6,3 +6,5 @@ console.log(true == '1');
 console.log(false == '0');
 
 // duble equals only compare the value, not the data type!but different data type can be converted to the same value!
+
+// for example 2 and '2' are different data type but they have the same value so they are considered equal when we use double equals! but when we use triple equals they are not considered equal because they have different data type!
