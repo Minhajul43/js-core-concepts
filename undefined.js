@@ -1,0 +1,3 @@
+// write some description about undefined and null undefined is a primitive data type that represents the absence of a value! it is the default value of a variable that has not been assigned a value! when we declare a variable without assigning a value to it, it is automatically assigned the value of undefined! for example let x; console.log(x); // undefined
+
+// null is a primitive data type that represents the intentional absence of any object value! it is used to indicate that a variable has no value! when we assign null to a variable, it means that the variable has no value! for example let y = null; console.log(y); // null
